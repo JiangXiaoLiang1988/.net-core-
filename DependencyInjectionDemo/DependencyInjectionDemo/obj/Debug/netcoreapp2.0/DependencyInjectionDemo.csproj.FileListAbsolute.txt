@@ -1,0 +1,11 @@
+D:\学习\core\依赖注入\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\netcoreapp2.0\DependencyInjectionDemo.deps.json
+D:\学习\core\依赖注入\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\netcoreapp2.0\DependencyInjectionDemo.runtimeconfig.json
+D:\学习\core\依赖注入\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\netcoreapp2.0\DependencyInjectionDemo.runtimeconfig.dev.json
+D:\学习\core\依赖注入\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\netcoreapp2.0\DependencyInjectionDemo.dll
+D:\学习\core\依赖注入\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\netcoreapp2.0\DependencyInjectionDemo.csproj.CoreCompileInputs.cache
+D:\学习\core\依赖注入\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\netcoreapp2.0\DependencyInjectionDemo.AssemblyInfoInputs.cache
+D:\学习\core\依赖注入\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\netcoreapp2.0\DependencyInjectionDemo.AssemblyInfo.cs
+D:\学习\core\依赖注入\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\netcoreapp2.0\DependencyInjectionDemo.pdb
+D:\学习\core\依赖注入\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\netcoreapp2.0\DependencyInjectionDemo.dll
+D:\学习\core\依赖注入\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\netcoreapp2.0\DependencyInjectionDemo.pdb
+D:\学习\core\依赖注入\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\netcoreapp2.0\DependencyInjectionDemo.csprojResolveAssemblyReference.cache
